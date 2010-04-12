@@ -1,0 +1,6 @@
+[submodule "ftp-git"]
+	path = ftp-git
+	url = git@github.com:BeezyT/ftp-git.git
+[submodule "git-ftp"]
+	path = git-ftp
+	url = git@github.com:BeezyT/git-ftp.git
